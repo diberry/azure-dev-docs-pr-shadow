@@ -6,6 +6,7 @@ ms.topic: how-to
 ms.date: 04/25/2025
 ms.custom: scenarios:getting-started, languages:JavaScript, devx-track-js, azure-sdk-storage-blob-typescript-version-12.2.1, engagement-fy23
 # CustomerIntent: As a JavaScript developer new to Azure, I want learn how to upload a file to Azure Storage in a web app so that know how to browser to do the actual file upload without exposing authentication secrets on the client.'
+
 ---
 
 # Upload an image to an Azure Storage blob with JavaScript
