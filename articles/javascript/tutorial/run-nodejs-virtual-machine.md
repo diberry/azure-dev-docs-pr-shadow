@@ -2,7 +2,7 @@
 title: Azure CLI virtual machine with Express.js
 description: Create an Azure Linux virtual machine, with a clone of an Express.js-based app from a GitHub repository.  
 ms.topic: how-to
-ms.date: 02/09/2023
+ms.date: 04/25/2025
 ms.custom: devx-track-js, devx-track-azurecli, engagement-fy23, linux-related-content
 # Must use non-internal sub
 ---
