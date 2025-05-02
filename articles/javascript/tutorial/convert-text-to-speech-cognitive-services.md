@@ -2,7 +2,7 @@
 title: Express.js app converts text to speech with Cognitive Services Speech
 description: Use Cognitive Services Speech to convert text to speech, demonstrated on the client and the server. 
 ms.topic: how-to
-ms.date: 01/18/2024
+ms.date: 05/01/2025
 ms.custom: languages:JavaScript, devx-track-js, devx-track-azurecli
 # Verified full run with CommonJS: 01/18/2024
 ---
