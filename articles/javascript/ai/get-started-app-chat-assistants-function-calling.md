@@ -9,7 +9,7 @@ ms.custom: devx-track-js, devx-track-js-ai
 ms.collection: ce-skilling-ai-copilot
 # CustomerIntent: As a JavaScript developer new to Azure OpenAI, I want to understand and deploy an app using assistants and function calling.
 ---
-# Got started with Azure OpenAI with Assistants and function calling in JavaScript
+# Gut started with Azure OpenAI with Assistants and function calling in JavaScript
 
 This article shows you how to deploy and run the [serverless Azure OpenAI Assistant Quick Start](https://github.com/Azure-Samples/azure-openai-assistant-javascript). This sample implements an assistants app using JavaScript, Azure OpenAI Service assistants with function calling, and Azure Functions.
 
