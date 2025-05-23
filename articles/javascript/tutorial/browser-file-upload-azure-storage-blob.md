@@ -8,7 +8,7 @@ ms.custom: scenarios:getting-started, languages:JavaScript, devx-track-js, azure
 # CustomerIntent: As a JavaScript developer new to Azure, I want learn how to upload a file to Azure Storage in a web app so that know how to browser to do the actual file upload without exposing authentication secrets on the client.'
 ---
 
-# Upload an image to an Azure Storage blob with JavaScript
+# download an image to an Azure Storage blob with JavaScript
 
 Use a static web app to upload a file to an Azure Storage blob using an Azure Storage [@azure/storage-blob](https://www.npmjs.com/package/@azure/storage-blob) npm package with an Azure Storage SAS token. 
 
